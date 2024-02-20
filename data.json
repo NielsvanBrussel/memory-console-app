@@ -1,0 +1,1115 @@
+[
+  {
+    "level": 1,
+    "score":  0,
+    "data": [
+      {
+        "text": "In the vast expanses of the Amazon Rainforest, one can find an incredible array of biodiversity. Spanning over 5.5 million square kilometers, the Amazon is home to approximately 10% of the world's known species. This immense ecosystem harbors an estimated 390 billion individual trees, which play a crucial role in regulating the Earth's climate by absorbing carbon dioxide. Moreover, the Amazon River, the largest river in the world by discharge volume, winds its way through the forest, providing vital resources to countless species and indigenous communities. Despite its ecological significance, the Amazon faces numerous threats, including deforestation, illegal logging, and climate change, highlighting the urgent need for conservation efforts to protect this invaluable natural treasure.",
+        "questions": [
+          {
+            "question": "What percentage of the world's known species can be found in the Amazon Rainforest?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "5%"
+              },
+              {
+                "correctAnswer": true,
+                "text": "10%"
+              },
+              {
+                "correctAnswer": false,
+                "text": "20%"
+              },
+              {
+                "correctAnswer": false,
+                "text": "50%"
+              },
+              {
+                "correctAnswer": false,
+                "text": "90%"
+              }
+            ]
+          },
+          {
+            "question": "How many square kilometers does the Amazon Rainforest span?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "1 million"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3 million"
+              },
+              {
+                "correctAnswer": true,
+                "text": "5.5 million"
+              },
+              {
+                "correctAnswer": false,
+                "text": "10 million"
+              },
+              {
+                "correctAnswer": false,
+                "text": "20 million"
+              }
+            ]
+          },
+          {
+            "question": "What is the role of the trees in the Amazon Rainforest?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Absorbing oxygen"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Producing freshwater"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Regulating the Earth's climate by absorbing carbon dioxide"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Providing habitat for marine life"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Generating electricity"
+              }
+            ]
+          },
+          {
+            "question": "Which river runs through the Amazon Rainforest?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Nile River"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Mississippi River"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Amazon River"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Yangtze River"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Danube River"
+              }
+            ]
+          },
+          {
+            "question": "What are some threats to the Amazon Rainforest?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "Deforestation"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Tourism"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Oil Spills"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Overpopulation"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Desertification"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The Great Wall of China, one of the most impressive architectural feats in history, stretches over 21,000 kilometers across northern China. Construction of the wall began over two millennia ago, during the Qin Dynasty, and continued through subsequent dynasties, with each ruling power adding their own sections and fortifications. The primary purpose of the Great Wall was to defend against invasions from northern nomadic tribes, although it also served as a means of border control, allowing for the regulation of trade and immigration. Despite its name, the Great Wall is not a single continuous structure but rather a series of interconnected walls, watchtowers, and fortifications built using various materials such as stone, brick, tamped earth, and wood. Today, the Great Wall stands as a symbol of China's rich history and cultural heritage, attracting millions of visitors from around the world each year.",
+        "questions": [
+          {
+            "question": "How long is the Great Wall of China?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "5,000 kilometers"
+              },
+              {
+                "correctAnswer": false,
+                "text": "11,000 kilometers"
+              },
+              {
+                "correctAnswer": false,
+                "text": "15,500 kilometers"
+              },
+              {
+                "correctAnswer": false,
+                "text": "20,000 kilometers"
+              },
+              {
+                "correctAnswer": true,
+                "text": "21,000 kilometers"
+              }
+            ]
+          },
+          {
+            "question": "When did construction of the Great Wall begin?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "During the Tang Dynasty"
+              },
+              {
+                "correctAnswer": true,
+                "text": "During the Qin Dynasty"
+              },
+              {
+                "correctAnswer": false,
+                "text": "During the Han Dynasty"
+              },
+              {
+                "correctAnswer": false,
+                "text": "During the Ming Dynasty"
+              },
+              {
+                "correctAnswer": false,
+                "text": "During the Song Dynasty"
+              }
+            ]
+          },
+          {
+            "question": "What was the primary purpose of the Great Wall?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "To serve as a trade route"
+              },
+              {
+                "correctAnswer": false,
+                "text": "As a monument"
+              },
+              {
+                "correctAnswer": false,
+                "text": "To mark the border between China and Mongolia"
+              },
+              {
+                "correctAnswer": true,
+                "text": "To defend against invasions"
+              },
+              {
+                "correctAnswer": false,
+                "text": "To showcase the emperor's power"
+              }
+            ]
+          },
+          {
+            "question": "What materials were used in the construction of the Great Wall?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Bamboo and mud"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Stone and brick"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Wood and tamped earth"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Bamboo and tamped earth"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Wood and clay"
+              }
+            ]
+          },
+          {
+            "question": "What is the significance of the Great Wall today?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "It serves as a transportation corridor"
+              },
+              {
+                "correctAnswer": false,
+                "text": "It functions as a water distribution system"
+              },
+              {
+                "correctAnswer": true,
+                "text": "It is a symbol of China's rich history and culture"
+              },
+              {
+                "correctAnswer": false,
+                "text": "It houses government offices and residences"
+              },
+              {
+                "correctAnswer": false,
+                "text": "It is used for military training exercises"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The Eiffel Tower, an iconic symbol of France and one of the most recognizable landmarks in the world, stands tall in the heart of Paris. Designed by Gustave Eiffel and completed in 1889, the tower was initially built as the centerpiece for the 1889 Exposition Universelle (World's Fair) to celebrate the 100th anniversary of the French Revolution. At a height of 324 meters, the Eiffel Tower was the tallest man-made structure in the world until the completion of the Chrysler Building in New York City in 1930. Composed of wrought iron and held together by over 18,000 individual iron parts, the tower was initially criticized by some of France's leading artists and intellectuals but has since become a beloved symbol of Paris and a testament to human ingenuity and engineering prowess. Today, the Eiffel Tower attracts millions of visitors annually who come to marvel at its breathtaking views of the city and to experience its timeless elegance and beauty.",
+        "questions": [
+          {
+            "question": "How tall is the Eiffel Tower?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "234 meters"
+              },
+              {
+                "correctAnswer": false,
+                "text": "243 meters"
+              },
+              {
+                "correctAnswer": true,
+                "text": "324 meters"
+              },
+              {
+                "correctAnswer": false,
+                "text": "423 meters"
+              },
+              {
+                "correctAnswer": false,
+                "text": "432 meters"
+              }
+            ]
+          },
+          {
+            "question": "What year was the Eiffel Tower completed?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "1789"
+              },
+              {
+                "correctAnswer": true,
+                "text": "1889"
+              },
+              {
+                "correctAnswer": false,
+                "text": "1900"
+              },
+              {
+                "correctAnswer": false,
+                "text": "1909"
+              },
+              {
+                "correctAnswer": false,
+                "text": "1901"
+              }
+            ]
+          },
+          {
+            "question": "What was the original purpose of the Eiffel Tower?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "To celebrate the end of the French Revolution"
+              },
+              {
+                "correctAnswer": false,
+                "text": "To commemorate a royal wedding"
+              },
+              {
+                "correctAnswer": false,
+                "text": "The coronation of Louis XIV"
+              },
+              {
+                "correctAnswer": false,
+                "text": "To showcase French art and culture"
+              },
+              {
+                "correctAnswer": true,
+                "text": "To celebrate the French Revolution's centennial"
+              }
+            ]
+          },
+          {
+            "question": "How many individual iron parts were used in the construction of the Eiffel Tower?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Approximately 12,000"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Approximately 14,000"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Approximately 16,000"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Approximately 18,000"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Approximately 22,000"
+              }
+            ]
+          },
+          {
+            "question": "What material is the Eiffel Tower primarily made of?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Alloy steel"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Galvanised steel"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Carbon steel"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Cast iron"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Wrought iron"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "In the wild, midgets have been observed to eat up to 7 trees per day.",
+        "questions": [
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "score": 0,
+    "data": [
+      {
+        "text": "In the wild, midgets have been observed to eat up to 3 trees per day.",
+        "questions": [
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "In the wild, midgets have been observed to eat up to 7 trees per day.",
+        "questions": [
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          },
+          {
+            "question": "How many trees can a midget eat per day?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "1"
+              },
+              {
+                "correctAnswer": false,
+                "text": "2"
+              },
+              {
+                "correctAnswer": false,
+                "text": "3"
+              },
+              {
+                "correctAnswer": false,
+                "text": "4"
+              },
+              {
+                "correctAnswer": false,
+                "text": "5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "score": 0,
+    "data": [
+      {
+        "text": "In the depths of a mystical forest, a young wanderer embarked on a quest to uncover the secrets hidden within ancient trees and winding pathways. Armed with nothing but a lantern and unwavering curiosity, she ventured forth into the unknown, guided by whispers of forgotten tales and the promise of untold wonders. With each step, she felt the pulse of the forest, a living, breathing entity that welcomed her presence with open arms. Through dappled sunlight and shadowy glens, she journeyed deeper into the heart of the wilderness, where magic danced upon the air and dreams took flight amidst the rustling leaves.",
+        "questions": [
+          {
+            "question": "What is the protagonist armed with on her journey?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "A sword"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A map"
+              },
+              {
+                "correctAnswer": true,
+                "text": "A lantern"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A shield"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A bow and arrow"
+              }
+            ]
+          },
+          {
+            "question": "Where does the protagonist's quest take place?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "A bustling city"
+              },
+              {
+                "correctAnswer": true,
+                "text": "A mystical forest"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A barren desert"
+              },
+              {
+                "correctAnswer": false,
+                "text": "An icy tundra"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A volcanic island"
+              }
+            ]
+          },
+          {
+            "question": "What guides the protagonist on her journey?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "A talking animal companion"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Ancient runes carved into trees"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Whispers of forgotten tales"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A magical compass"
+              },
+              {
+                "correctAnswer": false,
+                "text": " A celestial map"
+              }
+            ]
+          },
+          {
+            "question": "How does the protagonist feel about the forest?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "She finds it terrifying and hostile."
+              },
+              {
+                "correctAnswer": true,
+                "text": "She sees it as a place of wonder and mystery."
+              },
+              {
+                "correctAnswer": false,
+                "text": "She is indifferent to its beauty."
+              },
+              {
+                "correctAnswer": false,
+                "text": "She believes it to be cursed."
+              },
+              {
+                "correctAnswer": false,
+                "text": "She considers it a mere obstacle to overcome."
+              }
+            ]
+          },
+          {
+            "question": "What atmosphere does the text convey?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Joy and celebration"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Fear and trepidation"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Awe and wonder"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Sadness and despair"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Boredom and apathy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "In the heart of a bustling city, a struggling musician poured his soul into the melodies that echoed through dimly lit alleyways and crowded streets. Armed with nothing but his guitar and a voice that carried the weight of his dreams, he sang of love, loss, and the relentless pursuit of passion. Each chord struck a chord in the hearts of passersby, weaving tales of hope and despair that resonated long after the music faded into the night.",
+        "questions": [
+          {
+            "question": "What is the protagonist's artistic medium?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Painting"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Sculpting"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Acting"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Writing"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Music"
+              }
+            ]
+          },
+          {
+            "question": "Where does the protagonist perform his art?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "A bustling city"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A remote village"
+              },
+              {
+                "correctAnswer": false,
+                "text": "An isolated island"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A grand theater"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A tranquil forest"
+              }
+            ]
+          },
+          {
+            "question": "What drives the protagonist to continue his artistic pursuits?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Fame and fortune"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Personal satisfaction and expression"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Family pressure"
+              },
+              {
+                "correctAnswer": false,
+                "text": " Competition with other musicians"
+              },
+              {
+                "correctAnswer": false,
+                "text": " A desire for revenge"
+              }
+            ]
+          },
+          {
+            "question": "How does the protagonist's music impact those who listen?",
+            "answers": [
+              {
+                "correctAnswer": true,
+                "text": "It brings them joy and inspiration"
+              },
+              {
+                "correctAnswer": true,
+                "text": "It instills fear and sadness"
+              },
+              {
+                "correctAnswer": false,
+                "text": "It confuses and frustrates them"
+              },
+              {
+                "correctAnswer": false,
+                "text": "It makes them angry and resentful"
+              },
+              {
+                "correctAnswer": false,
+                "text": "It has no effect on them"
+              }
+            ]
+          },
+          {
+            "question": "What themes does the protagonist's music explore?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Political activism"
+              },
+              {
+                "correctAnswer": false,
+                "text": "War and conflict"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Science fiction and fantasy"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Historical events"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Love and heartbreak"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "In the ancient ruins of a lost civilization, a fearless archaeologist embarked on a quest to uncover the mysteries of the past. Armed with a trusty journal and a keen intellect, she delved into the depths of history, where each crumbling stone held a story waiting to be told. Through winding corridors and hidden chambers, she braved the darkness, driven by a thirst for knowledge that burned brighter than any torch. With each artifact unearthed, she pieced together the puzzle of a forgotten era, where legends whispered of untold riches and ancient secrets guarded by time itself.",
+        "questions": [
+          {
+            "question": "What is the protagonist's profession?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Chef"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Scientist"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Archaeologist"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Artist"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Musician"
+              }
+            ]
+          },
+          {
+            "question": "What tools does the protagonist carry on her journey?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "A bow and arrow"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A sword and shield"
+              },
+              {
+                "correctAnswer": true,
+                "text": "A journal and a compass"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A telescope and a microscope"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A camera and a laptop"
+              }
+            ]
+          },
+          {
+            "question": "Where does the protagonist explore?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Underwater caves"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Desert dunes"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Snow-capped mountains"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Ancient ruins"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Dense jungles"
+              }
+            ]
+          },
+          {
+            "question": "What motivates the protagonist?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "Fame and fortune"
+              },
+              {
+                "correctAnswer": true,
+                "text": "Curiosity and a thirst for knowledge"
+              },
+              {
+                "correctAnswer": false,
+                "text": "Revenge against a rival archaeologist"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A desire to prove herself to her family"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A quest for spiritual enlightenment"
+              }
+            ]
+          },
+          {
+            "question": "What does the protagonist uncover in the ruins?",
+            "answers": [
+              {
+                "correctAnswer": false,
+                "text": "A powerful artifact"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A hidden treasure trove"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A lost civilization's history"
+              },
+              {
+                "correctAnswer": true,
+                "text": "A secret entrance to another realm"
+              },
+              {
+                "correctAnswer": false,
+                "text": "A map leading to further discoveries"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+] 
